@@ -2,6 +2,7 @@
 
 import csv
 import json
+import statistics
 import sys
 from collections import Counter, defaultdict
 from pathlib import Path
@@ -53,6 +54,18 @@ with open(snakemake.output.counts, "w", newline="") as fh:  # noqa: F821
     for acc in order:
         total = sum(1 for r in regions if r["accession"] == acc)
         w.writerow([acc, meta[acc]["name"], meta[acc]["group"], total, *(counts[acc][t] for t in types)])
+
+# Per-group ranges and medians, so README numbers come straight from here.
+with open(snakemake.output.groups, "w", newline="") as fh:  # noqa: F821
+    w = csv.writer(fh, delimiter="	")
+    w.writerow(["group", "genomes", "measure", "min", "median", "max"])
+    groups: dict[str, list[str]] = defaultdict(list)
+    for acc in order:
+        groups[meta[acc]["group"].split(" (")[0]].append(acc)
+    for g, accs in groups.items():
+        totals = [sum(1 for r in regions if r["accession"] == a) for a in accs]
+        for name, vals in [("all regions", totals), *((t, [counts[a][t] for a in accs]) for t in types[:5])]:
+            w.writerow([g, len(accs), name, min(vals), statistics.median(vals), max(vals)])
 
 fig, ax = plt.subplots(figsize=(1.0 + 0.55 * len(types), 1.2 + 0.42 * len(order)))
 grid = [[counts[a][t] for t in types] for a in order]

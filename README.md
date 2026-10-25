@@ -17,7 +17,7 @@ It started from a question in a community college project: are slime molds like 
 | *Streptomyces coelicolor* (bacterium) | 4 | 31 |
 
 - **Polyketide synthases are the slime molds' specialty.** Every dictyostelid has 5 to 35 type I PKS clusters, while their non-social amoeba relatives have at most one. *D. purpureum* (35) comes close to *Aspergillus niger* (39), a fungus known for its rich chemistry.
-- **The expansion is strongest in group 4** (*Dictyostelium*: 16-35), the most recently diverged lineage, and smaller in groups 1-3 (5-13). That suggests these genes multiplied after social amoebae arose.
+- **Counts are highest in the genus *Dictyostelium*** (16-35, all in group 4), while *Polysphondylium violaceum* (also group 4) has 7 and groups 1-3 have 5-13. Nine genomes can't show when the extra genes appeared, and the *Dictyostelium* genomes are also among the best annotated, which could raise their counts. Testing this needs more genomes and a PKS gene tree (see next steps).
 - **Every dictyostelid has 1-4 hybrid regions with both type I and type III PKS**, consistent with the "Steely" enzymes known from *D. discoideum*, where both kinds of PKS are fused into one protein. No other genome here has them.
 - **No true NRPS clusters in any dictyostelid** (only NRPS-like fragments), unlike *Aspergillus* (22). Their chemistry is polyketide- and terpene-based, not peptide-based.
 - Terpene clusters are also common (4-18 per dictyostelid).
@@ -25,7 +25,7 @@ It started from a question in a community college project: are slime molds like 
 ## Caveats
 
 - antiSMASH has no amoeba mode; eukaryotes run with `--taxon fungi`, so the detection rules were built on fungal genes. Counts are best read as relative, not exact.
-- Results depend on each genome's gene annotation, which comes from different groups and methods. Two malformed genes in the *Acanthamoeba* annotation (overlapping exons) were removed so antiSMASH would run (see `logs/clean/`).
+- Results depend on each genome's gene annotation, which comes from different groups and methods. Two malformed genes in the *Acanthamoeba* annotation (ACA1_255410 and ACA1_274390, whose exons overlap) were removed so antiSMASH would run; no other genome needed changes.
 - Plasmodial slime molds (*Physarum*, *Badhamia*) have no annotated genome on NCBI yet, so they aren't included.
 - A cluster means the genes are there, not that the molecule is made. Many clusters are silent in lab conditions.
 
@@ -46,4 +46,4 @@ download-antismash-databases
 snakemake --cores 16
 ```
 
-Genomes are listed in `config/genomes.tsv`. The workflow downloads each annotated genome from NCBI, removes malformed gene models (`workflow/scripts/clean_gbff.py`), runs antiSMASH 8, and summarizes the regions (`results/bgc_counts.tsv`, `results/bgc_regions.tsv`, `results/bgc_heatmap.png`). The full run takes about 25 minutes on 16 cores.
+Genomes are listed in `config/genomes.tsv`. The workflow downloads each annotated genome from NCBI, removes malformed gene models (`workflow/scripts/clean_gbff.py`), runs antiSMASH 8, and summarizes the regions (`results/bgc_counts.tsv`, `results/bgc_regions.tsv`, `results/bgc_heatmap.png`, and per-group ranges and medians in `results/group_summary.tsv`, which the numbers above come from). The full run takes about 25 minutes on 16 cores.

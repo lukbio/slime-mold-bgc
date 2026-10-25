@@ -17,6 +17,7 @@ rule all:
         "results/bgc_counts.tsv",
         "results/bgc_regions.tsv",
         "results/bgc_heatmap.png",
+        "results/group_summary.tsv",
 
 
 rule download:
@@ -60,6 +61,7 @@ rule antismash:
         "logs/antismash/{acc}.log",
     shell:
         """
+        rm -rf {params.outdir}  # antiSMASH refuses a non-empty output folder
         antismash --taxon {params.taxon} {params.db} -c {threads} \
             --genefinding-tool none --minimal --enable-html \
             --output-dir {params.outdir} --output-basename {wildcards.acc} \
@@ -74,6 +76,7 @@ rule summarize:
         counts="results/bgc_counts.tsv",
         regions="results/bgc_regions.tsv",
         heatmap="results/bgc_heatmap.png",
+        groups="results/group_summary.tsv",
     params:
         genomes=config["genomes"],
     log:

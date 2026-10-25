@@ -1,0 +1,25 @@
+group	genomes	measure	min	median	max
+Dictyostelids	9	all regions	19	31	57
+Dictyostelids	9	T1PKS	5	13	35
+Dictyostelids	9	terpene	4	8	18
+Dictyostelids	9	NRPS-like	2	3	5
+Dictyostelids	9	T3PKS	3	3	7
+Dictyostelids	9	terpene-precursor	2	3	4
+Other amoebozoa	3	all regions	12	15	18
+Other amoebozoa	3	T1PKS	0	0	1
+Other amoebozoa	3	terpene	0	3	4
+Other amoebozoa	3	NRPS-like	4	6	7
+Other amoebozoa	3	T3PKS	0	1	5
+Other amoebozoa	3	terpene-precursor	2	3	3
+Fungi	2	all regions	5	48.0	91
+Fungi	2	T1PKS	0	19.5	39
+Fungi	2	terpene	2	15.5	29
+Fungi	2	NRPS-like	0	8.5	17
+Fungi	2	T3PKS	0	0.5	1
+Fungi	2	terpene-precursor	2	4.0	6
+Bacteria	1	all regions	31	31	31
+Bacteria	1	T1PKS	4	4	4
+Bacteria	1	terpene	6	6	6
+Bacteria	1	NRPS-like	1	1	1
+Bacteria	1	T3PKS	3	3	3
+Bacteria	1	terpene-precursor	2	2	2
