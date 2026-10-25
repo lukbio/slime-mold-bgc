@@ -1,0 +1,488 @@
+accession	species	group	record	region	start	end	length	products
+GCF_000004695.1	Dictyostelium discoideum	Dictyostelids (group 4)	NC_007087.3	1	2015027	2046344	31317	terpene-precursor
+GCF_000004695.1	Dictyostelium discoideum	Dictyostelids (group 4)	NC_007087.3	2	2582481	2652117	69636	T1PKS+T3PKS
+GCF_000004695.1	Dictyostelium discoideum	Dictyostelids (group 4)	NC_007087.3	3	2728299	2759337	31038	terpene
+GCF_000004695.1	Dictyostelium discoideum	Dictyostelids (group 4)	NC_007087.3	4	3068694	3138214	69520	T1PKS
+GCF_000004695.1	Dictyostelium discoideum	Dictyostelids (group 4)	NC_007087.3	5	3461703	3494389	32686	terpene
+GCF_000004695.1	Dictyostelium discoideum	Dictyostelids (group 4)	NC_007087.3	6	3933576	4002340	68764	T1PKS
+GCF_000004695.1	Dictyostelium discoideum	Dictyostelids (group 4)	NC_007088.5	1	469180	580308	111128	T1PKS
+GCF_000004695.1	Dictyostelium discoideum	Dictyostelids (group 4)	NC_007088.5	2	657699	725254	67555	T1PKS
+GCF_000004695.1	Dictyostelium discoideum	Dictyostelids (group 4)	NC_007088.5	3	1826722	1860823	34101	terpene
+GCF_000004695.1	Dictyostelium discoideum	Dictyostelids (group 4)	NC_007088.5	4	1896543	1927632	31089	terpene
+GCF_000004695.1	Dictyostelium discoideum	Dictyostelids (group 4)	NC_007088.5	5	1964415	2032148	67733	T1PKS
+GCF_000004695.1	Dictyostelium discoideum	Dictyostelids (group 4)	NC_007088.5	6	2042142	2166401	124259	T1PKS
+GCF_000004695.1	Dictyostelium discoideum	Dictyostelids (group 4)	NC_007088.5	7	5080510	5172355	91845	T1PKS
+GCF_000004695.1	Dictyostelium discoideum	Dictyostelids (group 4)	NC_007088.5	8	7925047	7956055	31008	terpene
+GCF_000004695.1	Dictyostelium discoideum	Dictyostelids (group 4)	NC_007089.4	1	595479	628676	33197	terpene
+GCF_000004695.1	Dictyostelium discoideum	Dictyostelids (group 4)	NC_007089.4	2	1228678	1262206	33528	terpene-precursor
+GCF_000004695.1	Dictyostelium discoideum	Dictyostelids (group 4)	NC_007089.4	3	4526536	4595616	69080	T1PKS+terpene
+GCF_000004695.1	Dictyostelium discoideum	Dictyostelids (group 4)	NC_007089.4	4	5228025	5324049	96024	T1PKS
+GCF_000004695.1	Dictyostelium discoideum	Dictyostelids (group 4)	NC_007089.4	5	5849164	5879724	30560	terpene
+GCF_000004695.1	Dictyostelium discoideum	Dictyostelids (group 4)	NC_007090.3	1	878844	940395	61551	T3PKS
+GCF_000004695.1	Dictyostelium discoideum	Dictyostelids (group 4)	NC_007090.3	2	1282339	1360597	78258	T1PKS
+GCF_000004695.1	Dictyostelium discoideum	Dictyostelids (group 4)	NC_007090.3	3	2373565	2404651	31086	terpene
+GCF_000004695.1	Dictyostelium discoideum	Dictyostelids (group 4)	NC_007090.3	4	4897277	4941365	44088	NI-siderophore
+GCF_000004695.1	Dictyostelium discoideum	Dictyostelids (group 4)	NC_007090.3	5	5289737	5367779	78042	T1PKS
+GCF_000004695.1	Dictyostelium discoideum	Dictyostelids (group 4)	NC_007091.3	1	222539	266846	44307	NI-siderophore
+GCF_000004695.1	Dictyostelium discoideum	Dictyostelids (group 4)	NC_007091.3	2	923190	987006	63816	NRPS-like
+GCF_000004695.1	Dictyostelium discoideum	Dictyostelids (group 4)	NC_007091.3	3	1513866	1581579	67713	T1PKS
+GCF_000004695.1	Dictyostelium discoideum	Dictyostelids (group 4)	NC_007091.3	4	3677193	3740571	63378	NRPS-like
+GCF_000004695.1	Dictyostelium discoideum	Dictyostelids (group 4)	NC_007091.3	5	4056337	4134349	78012	T1PKS
+GCF_000004695.1	Dictyostelium discoideum	Dictyostelids (group 4)	NC_007091.3	6	4408039	4588976	180937	T1PKS
+GCF_000004695.1	Dictyostelium discoideum	Dictyostelids (group 4)	NC_007091.3	7	4622247	4691413	69166	T1PKS+T3PKS
+GCF_000004695.1	Dictyostelium discoideum	Dictyostelids (group 4)	NC_007091.3	8	4742841	4826077	83236	T1PKS
+GCF_000004695.1	Dictyostelium discoideum	Dictyostelids (group 4)	NC_007092.3	1	506393	583580	77187	T1PKS
+GCF_000004695.1	Dictyostelium discoideum	Dictyostelids (group 4)	NC_007092.3	2	760773	792073	31300	terpene
+GCF_000004695.1	Dictyostelium discoideum	Dictyostelids (group 4)	NC_007092.3	3	1138509	1169993	31484	terpene
+GCF_000004695.1	Dictyostelium discoideum	Dictyostelids (group 4)	NC_007092.3	4	1687074	1755454	68380	T1PKS
+GCF_000004695.1	Dictyostelium discoideum	Dictyostelids (group 4)	NC_007092.3	5	3078907	3110110	31203	terpene-precursor
+GCF_000004695.1	Dictyostelium discoideum	Dictyostelids (group 4)	NC_007092.3	6	3220365	3251304	30939	terpene
+GCF_000004695.1	Dictyostelium discoideum	Dictyostelids (group 4)	NC_007092.3	7	3408258	3489778	81520	T1PKS
+GCF_000004695.1	Dictyostelium discoideum	Dictyostelids (group 4)	NC_007092.3	8	3568296	3602379	34083	NI-siderophore
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519338.1	1	176230	244217	67987	T1PKS
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519340.1	1	13063	45440	32377	terpene
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519345.1	1	138388	179212	40824	T1PKS
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519346.1	1	26150	94460	68310	T1PKS
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519348.1	1	53906	85252	31346	terpene
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519352.1	1	0	41683	41683	T1PKS+terpene-precursor
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519354.1	1	0	65239	65239	T1PKS
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519367.1	1	76360	136868	60508	T1PKS
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519370.1	1	17585	131365	113780	terpene+T1PKS
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519372.1	1	0	100289	100289	T1PKS
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519374.1	1	77150	125218	48068	T1PKS
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519377.1	1	0	96713	96713	T1PKS
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519382.1	1	4464	35397	30933	terpene
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519388.1	1	0	46314	46314	T3PKS
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519397.1	1	0	40353	40353	T1PKS
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519398.1	1	0	25235	25235	terpene-precursor
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519405.1	1	0	65014	65014	T1PKS
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519406.1	1	50718	81884	31166	terpene-precursor
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519417.1	1	66709	89596	22887	terpene
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519426.1	1	3522	71280	67758	T1PKS
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519449.1	1	0	19670	19670	terpene
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519462.1	1	0	20502	20502	terpene
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519464.1	1	0	44198	44198	T1PKS
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519469.1	1	21582	52793	31211	terpene
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519495.1	1	0	66666	66666	T1PKS
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519499.1	1	0	64967	64967	T1PKS
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519503.1	1	0	28623	28623	terpene
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519504.1	1	0	57303	57303	T1PKS
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519508.1	1	10855	41809	30954	terpene
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519510.1	1	6049	63754	57705	T1PKS
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519514.1	1	39213	63161	23948	terpene
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519515.1	1	27370	60968	33598	terpene
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519525.1	1	0	55885	55885	T1PKS
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519537.1	1	0	57895	57895	T1PKS
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519540.1	1	2383	56935	54552	T1PKS
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519557.1	1	0	52727	52727	T1PKS
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519563.1	1	0	51979	51979	T1PKS
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519565.1	1	9291	51307	42016	T1PKS
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519576.1	1	7254	50199	42945	T1PKS
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519578.1	1	0	40430	40430	T1PKS+T3PKS
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519581.1	1	8946	49265	40319	T1PKS
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519583.1	1	0	49296	49296	NRPS-like
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519589.1	1	22594	47914	25320	terpene-precursor
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519604.1	1	0	46350	46350	T1PKS
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519605.1	1	0	45751	45751	T1PKS
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519640.1	1	0	40379	40379	T1PKS
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519648.1	1	0	38570	38570	NI-siderophore
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519688.1	1	0	34249	34249	T1PKS
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519727.1	1	0	30286	30286	NRPS-like
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519766.1	1	1121	25166	24045	terpene
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519778.1	1	0	24260	24260	T1PKS
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519785.1	1	0	23875	23875	T1PKS
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519797.1	1	0	22739	22739	T1PKS
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519876.1	1	0	15458	15458	terpene
+GCF_000190715.1	Dictyostelium purpureum	Dictyostelids (group 4)	NW_003519879.1	1	0	15322	15322	T1PKS+T3PKS
+GCA_036169595.1	Dictyostelium firmibasis	Dictyostelids (group 4)	CM069765.1	1	330385	361634	31249	terpene-precursor
+GCA_036169595.1	Dictyostelium firmibasis	Dictyostelids (group 4)	CM069765.1	2	385035	452690	67655	T1PKS
+GCA_036169595.1	Dictyostelium firmibasis	Dictyostelids (group 4)	CM069765.1	3	457383	524462	67079	T1PKS
+GCA_036169595.1	Dictyostelium firmibasis	Dictyostelids (group 4)	CM069765.1	4	3321927	3355347	33420	terpene-precursor
+GCA_036169595.1	Dictyostelium firmibasis	Dictyostelids (group 4)	CM069765.1	5	3900675	3932224	31549	terpene
+GCA_036169595.1	Dictyostelium firmibasis	Dictyostelids (group 4)	CM069765.1	6	5477814	5509120	31306	terpene
+GCA_036169595.1	Dictyostelium firmibasis	Dictyostelids (group 4)	CM069765.1	7	5845130	5876539	31409	terpene
+GCA_036169595.1	Dictyostelium firmibasis	Dictyostelids (group 4)	CM069765.1	8	8533472	8611753	78281	T1PKS
+GCA_036169595.1	Dictyostelium firmibasis	Dictyostelids (group 4)	CM069766.1	1	400465	444409	43944	NI-siderophore
+GCA_036169595.1	Dictyostelium firmibasis	Dictyostelids (group 4)	CM069766.1	2	2738366	2769452	31086	terpene
+GCA_036169595.1	Dictyostelium firmibasis	Dictyostelids (group 4)	CM069766.1	3	3127769	3158908	31139	terpene
+GCA_036169595.1	Dictyostelium firmibasis	Dictyostelids (group 4)	CM069766.1	4	3755502	3817053	61551	T3PKS
+GCA_036169595.1	Dictyostelium firmibasis	Dictyostelids (group 4)	CM069767.1	1	80812	159887	79075	T1PKS
+GCA_036169595.1	Dictyostelium firmibasis	Dictyostelids (group 4)	CM069767.1	2	256264	300691	44427	NI-siderophore
+GCA_036169595.1	Dictyostelium firmibasis	Dictyostelids (group 4)	CM069767.1	3	1008702	1072488	63786	NRPS-like
+GCA_036169595.1	Dictyostelium firmibasis	Dictyostelids (group 4)	CM069767.1	4	1679263	1746899	67636	T1PKS
+GCA_036169595.1	Dictyostelium firmibasis	Dictyostelids (group 4)	CM069767.1	5	3579984	3643287	63303	NRPS-like
+GCA_036169595.1	Dictyostelium firmibasis	Dictyostelids (group 4)	CM069767.1	6	3967571	4036332	68761	T1PKS
+GCA_036169595.1	Dictyostelium firmibasis	Dictyostelids (group 4)	CM069767.1	7	4247161	4329419	82258	T1PKS
+GCA_036169595.1	Dictyostelium firmibasis	Dictyostelids (group 4)	CM069767.1	8	4357348	4426371	69023	T1PKS+T3PKS
+GCA_036169595.1	Dictyostelium firmibasis	Dictyostelids (group 4)	CM069768.1	1	1178168	1246154	67986	T1PKS
+GCA_036169595.1	Dictyostelium firmibasis	Dictyostelids (group 4)	CM069768.1	2	3556793	3587792	30999	terpene
+GCA_036169595.1	Dictyostelium firmibasis	Dictyostelids (group 4)	CM069769.1	1	1170425	1202931	32506	terpene
+GCA_036169595.1	Dictyostelium firmibasis	Dictyostelids (group 4)	CM069769.1	2	1911495	1981069	69574	T1PKS+T3PKS
+GCA_036169595.1	Dictyostelium firmibasis	Dictyostelids (group 4)	CM069769.1	3	2364043	2440480	76437	T1PKS+terpene-precursor
+GCA_036169595.1	Dictyostelium firmibasis	Dictyostelids (group 4)	CM069770.1	1	283295	365133	81838	T1PKS
+GCA_036169595.1	Dictyostelium firmibasis	Dictyostelids (group 4)	CM069770.1	2	565295	652516	87221	T1PKS
+GCA_036169595.1	Dictyostelium firmibasis	Dictyostelids (group 4)	CM069770.1	3	1499899	1578726	78827	T1PKS
+GCA_036169595.1	Dictyostelium firmibasis	Dictyostelids (group 4)	CM069770.1	4	1879436	1965106	85670	T1PKS
+GCA_036169595.1	Dictyostelium firmibasis	Dictyostelids (group 4)	CM069770.1	5	1978232	2094532	116300	T1PKS
+GCA_036169595.1	Dictyostelium firmibasis	Dictyostelids (group 4)	CM069770.1	6	2120026	2151133	31107	terpene
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	CM184267.1	1	95214	165052	69838	T1PKS
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	CM184267.1	2	245540	276727	31187	terpene-precursor
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	CM184267.1	3	317299	386559	69260	T1PKS
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	CM184267.1	4	2065116	2125992	60876	T3PKS
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	CM184267.1	5	3459698	3528666	68968	T1PKS
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	CM184267.1	6	3546750	3616383	69633	T1PKS
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	CM184267.1	7	4104139	4175712	71573	terpene+T1PKS
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	CM184267.1	8	4324302	4355686	31384	terpene
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	CM184267.1	9	4816689	4886004	69315	T1PKS
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	CM184267.1	10	5564528	5632165	67637	T1PKS
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	CM184267.1	11	5846949	5916054	69105	T1PKS
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	CM184267.1	12	6891751	6944722	52971	T1PKS
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	CM184268.1	1	245624	261022	15398	RiPP-like
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	CM184268.1	2	812539	880104	67565	T1PKS
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	CM184268.1	3	1141871	1175322	33451	terpene
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	CM184268.1	4	3022386	3084019	61633	T3PKS
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	CM184269.1	1	50691	81687	30996	terpene
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	CM184269.1	2	2319190	2381176	61986	NRPS-like
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	CM184269.1	3	2467711	2536786	69075	T1PKS
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	CM184269.1	4	2556168	2639205	83037	T1PKS
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	CM184270.1	1	607639	722024	114385	T1PKS
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	CM184270.1	2	1822933	1886595	63662	T1PKS
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	CM184270.1	3	2496695	2566114	69419	T1PKS
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	CM184270.1	4	2733113	2764212	31099	terpene
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	CM184270.1	5	2865054	2895994	30940	terpene
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	CM184271.1	1	46338	115383	69045	T1PKS
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	CM184271.1	2	326451	387582	61131	T3PKS
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	CM184271.1	3	399635	467420	67785	T1PKS
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	CM184271.1	4	581033	612251	31218	terpene-precursor
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	CM184271.1	5	908628	941070	32442	terpene
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	CM184271.1	6	1261742	1330451	68709	T1PKS
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	CM184271.1	7	1516247	1580060	63813	NRPS-like
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	CM184271.1	8	1589405	1658867	69462	T1PKS+T3PKS
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	CM184271.1	9	1968328	1999576	31248	terpene
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	CM184271.1	10	2476011	2507109	31098	terpene
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	CM184271.1	11	2680201	2748685	68484	T1PKS
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	JCACXS010000006.1	1	347704	378673	30969	terpene
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	JCACXS010000006.1	2	1088823	1157820	68997	T1PKS
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	JCACXS010000038.1	1	0	13104	13104	T1PKS
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	JCACXS010000090.1	1	0	14432	14432	NRPS-like
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	JCACXS010000211.1	1	0	13685	13685	terpene
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	JCACXS010000342.1	1	1161	21646	20485	terpene
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	JCACXS010000375.1	1	0	3828	3828	terpene
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	JCACXS010000487.1	1	0	4136	4136	T1PKS
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	JCACXS010000499.1	1	0	5422	5422	T1PKS
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	JCACXS010000624.1	1	0	6745	6745	T1PKS
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	JCACXS010000767.1	1	0	18130	18130	T1PKS
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	JCACXS010000951.1	1	0	10045	10045	NI-siderophore
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	JCACXS010001216.1	1	0	3592	3592	terpene
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	JCACXS010001392.1	1	0	5344	5344	terpene
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	JCACXS010001568.1	1	0	17944	17944	terpene
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	JCACXS010001658.1	1	0	15472	15472	T1PKS
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	JCACXS010001676.1	1	0	17442	17442	T1PKS
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	JCACXS010001805.1	1	0	2237	2237	terpene-precursor
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	JCACXS010001820.1	1	0	9105	9105	terpene
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	JCACXS010001986.1	1	0	15675	15675	T1PKS
+GCA_059609475.1	Dictyostelium giganteum	Dictyostelids (group 4)	JCACXS010002854.1	1	0	6719	6719	NI-siderophore
+GCA_000277445.1	Polysphondylium violaceum	Dictyostelids (group 4)	AJWJ01000003.1	1	114375	129813	15438	RiPP-like
+GCA_000277445.1	Polysphondylium violaceum	Dictyostelids (group 4)	AJWJ01000013.1	1	48912	79851	30939	terpene
+GCA_000277445.1	Polysphondylium violaceum	Dictyostelids (group 4)	AJWJ01000029.1	1	7586	39843	32257	terpene
+GCA_000277445.1	Polysphondylium violaceum	Dictyostelids (group 4)	AJWJ01000052.1	1	5126	36326	31200	terpene
+GCA_000277445.1	Polysphondylium violaceum	Dictyostelids (group 4)	AJWJ01000054.1	1	0	68409	68409	T1PKS+T3PKS
+GCA_000277445.1	Polysphondylium violaceum	Dictyostelids (group 4)	AJWJ01000092.1	1	0	45503	45503	T1PKS
+GCA_000277445.1	Polysphondylium violaceum	Dictyostelids (group 4)	AJWJ01000102.1	1	32038	56551	24513	terpene
+GCA_000277445.1	Polysphondylium violaceum	Dictyostelids (group 4)	AJWJ01000106.1	1	0	52744	52744	NRPS-like
+GCA_000277445.1	Polysphondylium violaceum	Dictyostelids (group 4)	AJWJ01000123.1	1	9141	49731	40590	NRPS-like
+GCA_000277445.1	Polysphondylium violaceum	Dictyostelids (group 4)	AJWJ01000150.1	1	0	20092	20092	terpene
+GCA_000277445.1	Polysphondylium violaceum	Dictyostelids (group 4)	AJWJ01000162.1	1	1778	43222	41444	T1PKS
+GCA_000277445.1	Polysphondylium violaceum	Dictyostelids (group 4)	AJWJ01000206.1	1	3134	38101	34967	T3PKS
+GCA_000277445.1	Polysphondylium violaceum	Dictyostelids (group 4)	AJWJ01000208.1	1	0	38091	38091	T1PKS
+GCA_000277445.1	Polysphondylium violaceum	Dictyostelids (group 4)	AJWJ01000226.1	1	18277	36201	17924	terpene-precursor
+GCA_000277445.1	Polysphondylium violaceum	Dictyostelids (group 4)	AJWJ01000258.1	1	0	31966	31966	T1PKS
+GCA_000277445.1	Polysphondylium violaceum	Dictyostelids (group 4)	AJWJ01000296.1	1	0	28171	28171	NRPS-like
+GCA_000277445.1	Polysphondylium violaceum	Dictyostelids (group 4)	AJWJ01000323.1	1	3499	26205	22706	terpene
+GCA_000277445.1	Polysphondylium violaceum	Dictyostelids (group 4)	AJWJ01000345.1	1	0	24983	24983	T1PKS
+GCA_000277445.1	Polysphondylium violaceum	Dictyostelids (group 4)	AJWJ01000365.1	1	0	23973	23973	terpene-precursor
+GCA_000277445.1	Polysphondylium violaceum	Dictyostelids (group 4)	AJWJ01000457.1	1	0	19768	19768	T3PKS
+GCA_000277445.1	Polysphondylium violaceum	Dictyostelids (group 4)	AJWJ01000474.1	1	0	18680	18680	terpene
+GCA_000277445.1	Polysphondylium violaceum	Dictyostelids (group 4)	AJWJ01000664.1	1	0	11239	11239	T1PKS
+GCA_001606155.1	Tieghemostelium lacteum	Dictyostelids (group 3)	LODT01000004.1	1	53910	173392	119482	T3PKS+T1PKS
+GCA_001606155.1	Tieghemostelium lacteum	Dictyostelids (group 3)	LODT01000004.1	2	461787	536581	74794	T1PKS
+GCA_001606155.1	Tieghemostelium lacteum	Dictyostelids (group 3)	LODT01000004.1	3	651150	718788	67638	T1PKS
+GCA_001606155.1	Tieghemostelium lacteum	Dictyostelids (group 3)	LODT01000004.1	4	1029566	1165781	136215	T1PKS+T3PKS
+GCA_001606155.1	Tieghemostelium lacteum	Dictyostelids (group 3)	LODT01000006.1	1	253875	320957	67082	T1PKS
+GCA_001606155.1	Tieghemostelium lacteum	Dictyostelids (group 3)	LODT01000011.1	1	271350	334892	63542	NRPS-like
+GCA_001606155.1	Tieghemostelium lacteum	Dictyostelids (group 3)	LODT01000011.1	2	627050	688701	61651	T3PKS
+GCA_001606155.1	Tieghemostelium lacteum	Dictyostelids (group 3)	LODT01000013.1	1	258650	338498	79848	terpene+terpene-precursor
+GCA_001606155.1	Tieghemostelium lacteum	Dictyostelids (group 3)	LODT01000013.1	2	516534	547509	30975	terpene
+GCA_001606155.1	Tieghemostelium lacteum	Dictyostelids (group 3)	LODT01000015.1	1	81932	112895	30963	terpene-precursor
+GCA_001606155.1	Tieghemostelium lacteum	Dictyostelids (group 3)	LODT01000021.1	1	232529	296126	63597	NRPS-like
+GCA_001606155.1	Tieghemostelium lacteum	Dictyostelids (group 3)	LODT01000025.1	1	613550	644567	31017	terpene
+GCA_001606155.1	Tieghemostelium lacteum	Dictyostelids (group 3)	LODT01000028.1	1	734148	797085	62937	T3PKS
+GCA_001606155.1	Tieghemostelium lacteum	Dictyostelids (group 3)	LODT01000028.1	2	1015492	1048716	33224	terpene
+GCA_001606155.1	Tieghemostelium lacteum	Dictyostelids (group 3)	LODT01000031.1	1	610709	641848	31139	terpene
+GCA_001606155.1	Tieghemostelium lacteum	Dictyostelids (group 3)	LODT01000034.1	1	539845	608045	68200	T1PKS+T3PKS
+GCA_001606155.1	Tieghemostelium lacteum	Dictyostelids (group 3)	LODT01000034.1	2	665807	728741	62934	NRPS-like
+GCA_001606155.1	Tieghemostelium lacteum	Dictyostelids (group 3)	LODT01000035.1	1	1454301	1486416	32115	terpene
+GCA_001606155.1	Tieghemostelium lacteum	Dictyostelids (group 3)	LODT01000037.1	1	1000964	1032041	31077	terpene-precursor
+GCA_001606155.1	Tieghemostelium lacteum	Dictyostelids (group 3)	LODT01000039.1	1	280949	359502	78553	T1PKS+T3PKS
+GCA_001606155.1	Tieghemostelium lacteum	Dictyostelids (group 3)	LODT01000039.1	2	605602	668223	62621	T1PKS
+GCA_001606155.1	Tieghemostelium lacteum	Dictyostelids (group 3)	LODT01000039.1	3	672071	743590	71519	NRPS-like+T1PKS
+GCA_001606155.1	Tieghemostelium lacteum	Dictyostelids (group 3)	LODT01000041.1	1	621981	662448	40467	T3PKS
+GCA_001606155.1	Tieghemostelium lacteum	Dictyostelids (group 3)	LODT01000047.1	1	201498	232680	31182	terpene
+GCA_001606155.1	Tieghemostelium lacteum	Dictyostelids (group 3)	LODT01000051.1	1	191419	222457	31038	terpene
+GCA_001606155.1	Tieghemostelium lacteum	Dictyostelids (group 3)	LODT01000053.1	1	2356	69231	66875	T1PKS
+GCF_000787575.1	Acytostelium subglobosum	Dictyostelids (group 2)	NW_012236492.1	1	90533	154479	63946	NRPS-like
+GCF_000787575.1	Acytostelium subglobosum	Dictyostelids (group 2)	NW_012236505.1	1	370107	438248	68141	T1PKS+T3PKS
+GCF_000787575.1	Acytostelium subglobosum	Dictyostelids (group 2)	NW_012236506.1	1	37787	99389	61602	T3PKS
+GCF_000787575.1	Acytostelium subglobosum	Dictyostelids (group 2)	NW_012236509.1	1	309047	376321	67274	T1PKS
+GCF_000787575.1	Acytostelium subglobosum	Dictyostelids (group 2)	NW_012236516.1	1	108842	170069	61227	T3PKS
+GCF_000787575.1	Acytostelium subglobosum	Dictyostelids (group 2)	NW_012236517.1	1	0	28691	28691	terpene-precursor
+GCF_000787575.1	Acytostelium subglobosum	Dictyostelids (group 2)	NW_012236521.1	1	713125	775995	62870	NRPS-like
+GCF_000787575.1	Acytostelium subglobosum	Dictyostelids (group 2)	NW_012236522.1	1	394534	461781	67247	NRPS-like
+GCF_000787575.1	Acytostelium subglobosum	Dictyostelids (group 2)	NW_012236524.1	1	204905	236347	31442	terpene
+GCF_000787575.1	Acytostelium subglobosum	Dictyostelids (group 2)	NW_012236525.1	1	239761	270896	31135	terpene-precursor
+GCF_000787575.1	Acytostelium subglobosum	Dictyostelids (group 2)	NW_012236525.1	2	380557	444537	63980	NRPS-like
+GCF_000787575.1	Acytostelium subglobosum	Dictyostelids (group 2)	NW_012236525.1	3	549126	580249	31123	terpene-precursor
+GCF_000787575.1	Acytostelium subglobosum	Dictyostelids (group 2)	NW_012236525.1	4	787511	818710	31199	terpene
+GCF_000787575.1	Acytostelium subglobosum	Dictyostelids (group 2)	NW_012236528.1	1	712331	780927	68596	T1PKS
+GCF_000787575.1	Acytostelium subglobosum	Dictyostelids (group 2)	NW_012236529.1	1	926460	990460	64000	NRPS-like
+GCF_000787575.1	Acytostelium subglobosum	Dictyostelids (group 2)	NW_012236530.1	1	0	28043	28043	terpene
+GCF_000787575.1	Acytostelium subglobosum	Dictyostelids (group 2)	NW_012236531.1	1	717828	785948	68120	T1PKS+T3PKS
+GCF_000787575.1	Acytostelium subglobosum	Dictyostelids (group 2)	NW_012236532.1	1	505061	536204	31143	terpene
+GCF_000787575.1	Acytostelium subglobosum	Dictyostelids (group 2)	NW_012236532.1	2	1130612	1200079	69467	T1PKS+T3PKS
+GCF_000004825.1	Heterostelium album	Dictyostelids (group 2)	NW_008805063.1	1	479451	547574	68123	T1PKS+T3PKS
+GCF_000004825.1	Heterostelium album	Dictyostelids (group 2)	NW_008805063.1	2	969144	1036816	67672	T1PKS
+GCF_000004825.1	Heterostelium album	Dictyostelids (group 2)	NW_008805063.1	3	1212038	1276892	64854	NRPS-like
+GCF_000004825.1	Heterostelium album	Dictyostelids (group 2)	NW_008805064.1	1	2196347	2263934	67587	T1PKS
+GCF_000004825.1	Heterostelium album	Dictyostelids (group 2)	NW_008805065.1	1	543029	629633	86604	T1PKS+T3PKS+terpene
+GCF_000004825.1	Heterostelium album	Dictyostelids (group 2)	NW_008805065.1	2	887311	960395	73084	T1PKS
+GCF_000004825.1	Heterostelium album	Dictyostelids (group 2)	NW_008805065.1	3	990844	1055286	64442	NRPS-like+terpene
+GCF_000004825.1	Heterostelium album	Dictyostelids (group 2)	NW_008805068.1	1	1752454	1783422	30968	terpene
+GCF_000004825.1	Heterostelium album	Dictyostelids (group 2)	NW_008805068.1	2	1917573	1948549	30976	terpene
+GCF_000004825.1	Heterostelium album	Dictyostelids (group 2)	NW_008805070.1	1	1390775	1421825	31050	terpene
+GCF_000004825.1	Heterostelium album	Dictyostelids (group 2)	NW_008805071.1	1	115627	146681	31054	terpene
+GCF_000004825.1	Heterostelium album	Dictyostelids (group 2)	NW_008805071.1	2	767148	834613	67465	T1PKS
+GCF_000004825.1	Heterostelium album	Dictyostelids (group 2)	NW_008805071.1	3	1071222	1134953	63731	NRPS-like
+GCF_000004825.1	Heterostelium album	Dictyostelids (group 2)	NW_008805072.1	1	1505256	1572687	67431	T1PKS
+GCF_000004825.1	Heterostelium album	Dictyostelids (group 2)	NW_008805072.1	2	1585659	1641145	55486	T1PKS
+GCF_000004825.1	Heterostelium album	Dictyostelids (group 2)	NW_008805073.1	1	888637	992557	103920	NRPS-like
+GCF_000004825.1	Heterostelium album	Dictyostelids (group 2)	NW_008805074.1	1	590479	634712	44233	terpene
+GCF_000004825.1	Heterostelium album	Dictyostelids (group 2)	NW_008805074.1	2	729145	760117	30972	terpene
+GCF_000004825.1	Heterostelium album	Dictyostelids (group 2)	NW_008805075.1	1	328299	376569	48270	NI-siderophore
+GCF_000004825.1	Heterostelium album	Dictyostelids (group 2)	NW_008805075.1	2	499459	543295	43836	NI-siderophore
+GCF_000004825.1	Heterostelium album	Dictyostelids (group 2)	NW_008805076.1	1	282324	349841	67517	T1PKS+terpene
+GCF_000004825.1	Heterostelium album	Dictyostelids (group 2)	NW_008805078.1	1	285916	316990	31074	terpene
+GCF_000004825.1	Heterostelium album	Dictyostelids (group 2)	NW_008805078.1	2	433785	465208	31423	terpene
+GCF_000004825.1	Heterostelium album	Dictyostelids (group 2)	NW_008805078.1	3	610562	646364	35802	terpene-precursor
+GCF_000004825.1	Heterostelium album	Dictyostelids (group 2)	NW_008805085.1	1	169422	200928	31506	terpene
+GCF_000004825.1	Heterostelium album	Dictyostelids (group 2)	NW_008805086.1	1	59670	140497	80827	T1PKS
+GCF_000004825.1	Heterostelium album	Dictyostelids (group 2)	NW_008805086.1	2	352651	383721	31070	terpene
+GCF_000004825.1	Heterostelium album	Dictyostelids (group 2)	NW_008805086.1	3	494765	561479	66714	T1PKS
+GCF_000004825.1	Heterostelium album	Dictyostelids (group 2)	NW_008805086.1	4	732606	866963	134357	T1PKS
+GCF_000004825.1	Heterostelium album	Dictyostelids (group 2)	NW_008805089.1	1	198319	262481	64162	NRPS-like
+GCF_000004825.1	Heterostelium album	Dictyostelids (group 2)	NW_008805090.1	1	631368	663553	32185	terpene
+GCF_000004825.1	Heterostelium album	Dictyostelids (group 2)	NW_008805090.1	2	667594	703605	36011	terpene
+GCF_000004825.1	Heterostelium album	Dictyostelids (group 2)	NW_008805091.1	1	46782	77553	30771	terpene-precursor
+GCF_000004825.1	Heterostelium album	Dictyostelids (group 2)	NW_008805092.1	1	105716	136810	31094	terpene
+GCF_000004825.1	Heterostelium album	Dictyostelids (group 2)	NW_008805092.1	2	359970	418365	58395	terpene
+GCF_000004825.1	Heterostelium album	Dictyostelids (group 2)	NW_008805097.1	1	4155	71865	67710	T1PKS
+GCF_000004825.1	Heterostelium album	Dictyostelids (group 2)	NW_008805097.1	2	117736	151659	33923	terpene
+GCF_000004825.1	Heterostelium album	Dictyostelids (group 2)	NW_008805104.1	1	100086	161732	61646	T3PKS
+GCF_000203815.1	Cavenderia fasciculata	Dictyostelids (group 1)	NW_004457737.1	1	1547846	1579771	31925	terpene
+GCF_000203815.1	Cavenderia fasciculata	Dictyostelids (group 1)	NW_004457735.1	1	1761312	1792207	30895	hserlactone
+GCF_000203815.1	Cavenderia fasciculata	Dictyostelids (group 1)	NW_004457729.1	1	744453	777807	33354	terpene
+GCF_000203815.1	Cavenderia fasciculata	Dictyostelids (group 1)	NW_004457713.1	1	29958	65403	35445	terpene-precursor
+GCF_000203815.1	Cavenderia fasciculata	Dictyostelids (group 1)	NW_004457713.1	2	321871	396884	75013	T1PKS
+GCF_000203815.1	Cavenderia fasciculata	Dictyostelids (group 1)	NW_004457711.1	1	87911	151446	63535	NRPS-like
+GCF_000203815.1	Cavenderia fasciculata	Dictyostelids (group 1)	NW_004457711.1	2	454821	490918	36097	terpene
+GCF_000203815.1	Cavenderia fasciculata	Dictyostelids (group 1)	NW_004457708.1	1	186785	217888	31103	terpene-precursor
+GCF_000203815.1	Cavenderia fasciculata	Dictyostelids (group 1)	NW_004457708.1	2	1133752	1199928	66176	NRPS-like
+GCF_000203815.1	Cavenderia fasciculata	Dictyostelids (group 1)	NW_004457703.1	1	471994	540948	68954	T1PKS
+GCF_000203815.1	Cavenderia fasciculata	Dictyostelids (group 1)	NW_004457695.1	1	277588	362582	84994	T1PKS
+GCF_000203815.1	Cavenderia fasciculata	Dictyostelids (group 1)	NW_004457695.1	2	511631	543044	31413	terpene
+GCF_000203815.1	Cavenderia fasciculata	Dictyostelids (group 1)	NW_004457695.1	3	2408478	2508802	100324	T1PKS+T3PKS
+GCF_000203815.1	Cavenderia fasciculata	Dictyostelids (group 1)	NW_004457690.1	1	33570	95234	61664	T3PKS
+GCF_000203815.1	Cavenderia fasciculata	Dictyostelids (group 1)	NW_004457644.1	1	73540	137657	64117	NRPS-like
+GCF_000203815.1	Cavenderia fasciculata	Dictyostelids (group 1)	NW_004457644.1	2	493675	524777	31102	terpene
+GCF_000203815.1	Cavenderia fasciculata	Dictyostelids (group 1)	NW_004457644.1	3	713505	761004	47499	NRPS-like
+GCF_000203815.1	Cavenderia fasciculata	Dictyostelids (group 1)	NW_004457642.1	1	448675	517172	68497	T1PKS+T3PKS
+GCF_000203815.1	Cavenderia fasciculata	Dictyostelids (group 1)	NW_004457642.1	2	638706	705995	67289	T1PKS
+GCF_000203815.1	Cavenderia fasciculata	Dictyostelids (group 1)	NW_004457642.1	3	844784	912199	67415	T1PKS
+GCF_000203815.1	Cavenderia fasciculata	Dictyostelids (group 1)	NW_004457624.1	1	225269	288929	63660	NRPS-like
+GCF_000203815.1	Cavenderia fasciculata	Dictyostelids (group 1)	NW_004457624.1	2	364838	432460	67622	T1PKS
+GCF_000203815.1	Cavenderia fasciculata	Dictyostelids (group 1)	NW_004457624.1	3	753201	830218	77017	T1PKS
+GCF_000203815.1	Cavenderia fasciculata	Dictyostelids (group 1)	NW_004457624.1	4	1675620	1712982	37362	terpene
+GCF_000203815.1	Cavenderia fasciculata	Dictyostelids (group 1)	NW_004457624.1	5	1938651	2000031	61380	T3PKS
+GCF_000203815.1	Cavenderia fasciculata	Dictyostelids (group 1)	NW_004457624.1	6	3015896	3084453	68557	T1PKS
+GCF_000203815.1	Cavenderia fasciculata	Dictyostelids (group 1)	NW_004457624.1	7	3254343	3343621	89278	T1PKS+NI-siderophore
+GCA_003024175.1	Planoprotostelium fungivorum	Other amoebozoa	MDYQ01000101.1	1	0	38730	38730	isocyanide
+GCA_003024175.1	Planoprotostelium fungivorum	Other amoebozoa	MDYQ01000117.1	1	278	75060	74782	NRPS-like
+GCA_003024175.1	Planoprotostelium fungivorum	Other amoebozoa	MDYQ01000120.1	1	0	40892	40892	NRPS-like
+GCA_003024175.1	Planoprotostelium fungivorum	Other amoebozoa	MDYQ01000133.1	1	1066	68666	67600	NRPS-like
+GCA_003024175.1	Planoprotostelium fungivorum	Other amoebozoa	MDYQ01000002.1	1	0	65316	65316	NRPS-like
+GCA_003024175.1	Planoprotostelium fungivorum	Other amoebozoa	MDYQ01000002.1	2	307676	358903	51227	NAPAA
+GCA_003024175.1	Planoprotostelium fungivorum	Other amoebozoa	MDYQ01000172.1	1	22636	59411	36775	NAPAA
+GCA_003024175.1	Planoprotostelium fungivorum	Other amoebozoa	MDYQ01000177.1	1	38261	56299	18038	terpene-precursor
+GCA_003024175.1	Planoprotostelium fungivorum	Other amoebozoa	MDYQ01000192.1	1	0	54464	54464	NRPS-like
+GCA_003024175.1	Planoprotostelium fungivorum	Other amoebozoa	MDYQ01000277.1	1	0	25049	25049	terpene
+GCA_003024175.1	Planoprotostelium fungivorum	Other amoebozoa	MDYQ01000353.1	1	168256	235056	66800	NRPS-like
+GCA_003024175.1	Planoprotostelium fungivorum	Other amoebozoa	MDYQ01000049.1	1	58087	90340	32253	terpene-precursor
+GCA_003024175.1	Planoprotostelium fungivorum	Other amoebozoa	MDYQ01000006.1	1	18470	54673	36203	terpene
+GCA_003024175.1	Planoprotostelium fungivorum	Other amoebozoa	MDYQ01000006.1	2	243248	274717	31469	terpene
+GCA_003024175.1	Planoprotostelium fungivorum	Other amoebozoa	MDYQ01000007.1	1	43470	74874	31404	terpene-precursor
+GCA_000313135.1	Acanthamoeba castellanii	Other amoebozoa	KB007805.1	1	958058	1029793	71735	NRPS-like+T1PKS
+GCA_000313135.1	Acanthamoeba castellanii	Other amoebozoa	KB007860.1	1	9460	57740	48280	isocyanide
+GCA_000313135.1	Acanthamoeba castellanii	Other amoebozoa	KB007904.1	1	281401	313483	32082	terpene-precursor
+GCA_000313135.1	Acanthamoeba castellanii	Other amoebozoa	KB007926.1	1	664763	728508	63745	NRPS-like
+GCA_000313135.1	Acanthamoeba castellanii	Other amoebozoa	KB007933.1	1	214327	246028	31701	terpene-precursor
+GCA_000313135.1	Acanthamoeba castellanii	Other amoebozoa	KB007933.1	2	1021254	1086803	65549	NRPS-like
+GCA_000313135.1	Acanthamoeba castellanii	Other amoebozoa	KB007951.1	1	50781	116899	66118	NRPS-like
+GCA_000313135.1	Acanthamoeba castellanii	Other amoebozoa	KB007957.1	1	0	22157	22157	terpene
+GCA_000313135.1	Acanthamoeba castellanii	Other amoebozoa	KB007974.1	1	1449994	1517561	67567	NRPS
+GCA_000313135.1	Acanthamoeba castellanii	Other amoebozoa	KB007985.1	1	47132	64210	17078	RiPP-like
+GCA_000313135.1	Acanthamoeba castellanii	Other amoebozoa	KB007985.1	2	285290	317823	32533	terpene
+GCA_000313135.1	Acanthamoeba castellanii	Other amoebozoa	KB008022.1	1	76861	142997	66136	NRPS-like
+GCA_000313135.1	Acanthamoeba castellanii	Other amoebozoa	KB008044.1	1	226254	259001	32747	terpene
+GCA_000313135.1	Acanthamoeba castellanii	Other amoebozoa	KB008070.1	1	76798	144598	67800	NRPS
+GCA_000313135.1	Acanthamoeba castellanii	Other amoebozoa	KB008103.1	1	1208721	1273823	65102	NRPS-like
+GCA_000313135.1	Acanthamoeba castellanii	Other amoebozoa	KB008148.1	1	216022	282382	66360	NRPS-like
+GCA_000313135.1	Acanthamoeba castellanii	Other amoebozoa	KB008171.1	1	1174	63577	62403	T3PKS+phosphonate
+GCA_000313135.1	Acanthamoeba castellanii	Other amoebozoa	KB008174.1	1	74829	109046	34217	terpene
+GCF_000208925.1	Entamoeba histolytica	Other amoebozoa	NW_001915126.1	1	0	21033	21033	T3PKS
+GCF_000208925.1	Entamoeba histolytica	Other amoebozoa	NW_001915105.1	1	0	23377	23377	NRPS-like
+GCF_000208925.1	Entamoeba histolytica	Other amoebozoa	NW_001915012.1	1	0	25870	25870	terpene-precursor
+GCF_000208925.1	Entamoeba histolytica	Other amoebozoa	NW_001914994.1	1	0	39564	39564	T3PKS
+GCF_000208925.1	Entamoeba histolytica	Other amoebozoa	NW_001914992.1	1	0	37087	37087	NRPS-like
+GCF_000208925.1	Entamoeba histolytica	Other amoebozoa	NW_001914981.1	1	0	16266	16266	terpene-precursor
+GCF_000208925.1	Entamoeba histolytica	Other amoebozoa	NW_001914938.1	1	12780	59297	46517	T3PKS
+GCF_000208925.1	Entamoeba histolytica	Other amoebozoa	NW_001914919.1	1	0	27877	27877	terpene-precursor
+GCF_000208925.1	Entamoeba histolytica	Other amoebozoa	NW_001914899.1	1	0	41260	41260	T3PKS
+GCF_000208925.1	Entamoeba histolytica	Other amoebozoa	NW_001914897.1	1	9311	72314	63003	NRPS-like
+GCF_000208925.1	Entamoeba histolytica	Other amoebozoa	NW_001914882.1	1	0	45729	45729	NRPS-like
+GCF_000208925.1	Entamoeba histolytica	Other amoebozoa	NW_001914870.1	1	0	59363	59363	T3PKS
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166525.1	1	50375	130331	79956	NRPS-like+NRPS
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166525.1	2	239285	307611	68326	T1PKS+terpene
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166525.1	3	322773	493873	171100	NRPS+T1PKS
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166525.1	4	519699	577121	57422	terpene
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166525.1	5	1107280	1170382	63102	NRPS-like
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166525.1	6	1175377	1243500	68123	T1PKS
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166525.1	7	1273291	1339971	66680	T1PKS
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166525.1	8	1371514	1402854	31340	terpene
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166525.1	9	1471669	1503986	32317	terpene
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166529.1	1	452314	538970	86656	NRPS+T1PKS+terpene
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166529.1	2	1121369	1187128	65759	NRPS-like+T1PKS
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166518.1	1	236480	324838	88358	T1PKS+terpene
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166518.1	2	1595469	1674535	79066	T1PKS
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166518.1	3	1783181	1816357	33176	terpene
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166518.1	4	2670688	2701510	30822	terpene
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166518.1	5	2739003	2806541	67538	NRPS-like
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166518.1	6	3116350	3154612	38262	betalactone
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166528.1	1	436849	468300	31451	indole
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166528.1	2	551406	626570	75164	T1PKS+NRPS-like
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166528.1	3	648772	730707	81935	T1PKS+NRPS
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166527.1	1	476176	507782	31606	terpene
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166527.1	2	508564	576161	67597	T1PKS
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166527.1	3	642620	771128	128508	T1PKS+NRPS
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166527.1	4	1653169	1773030	119861	T1PKS+NRPS
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166527.1	5	2318394	2381731	63337	NRPS-like
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166527.1	6	2483238	2566738	83500	terpene+NRPS-like
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166530.1	1	536635	604940	68305	T1PKS
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166530.1	2	951009	1019184	68175	T1PKS
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166530.1	3	1167634	1235229	67595	T1PKS
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166530.1	4	1652293	1684400	32107	terpene
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166530.1	5	1737556	1815044	77488	NRPS
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166530.1	6	1832044	1879820	47776	NRPS+T1PKS
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166519.1	1	18540	132087	113547	NRPS-like+T1PKS
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166519.1	2	149873	213194	63321	NRPS-like
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166519.1	3	1169427	1235206	65779	NRPS
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166519.1	4	1328649	1359252	30603	terpene
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166519.1	5	1976471	2048571	72100	NRPS+T1PKS
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166519.1	6	2312235	2380059	67824	T1PKS
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166519.1	7	2482000	2544787	62787	NRPS-like
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166519.1	8	2559516	2590624	31108	terpene-precursor
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166519.1	9	2699084	2730320	31236	terpene
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166523.1	1	126475	213874	87399	terpene+T1PKS
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166523.1	2	499902	531280	31378	indole
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166523.1	3	1306926	1339527	32601	terpene
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166537.1	1	0	61655	61655	T1PKS
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166531.1	1	42019	74296	32277	terpene
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166531.1	2	83950	147046	63096	NRPS-like
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166531.1	3	338884	369996	31112	terpene-precursor
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166531.1	4	1456580	1537884	81304	NRPS
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166532.1	1	82941	113901	30960	terpene
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166520.1	1	98911	187519	88608	NRPS+terpene+terpene-precursor
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166520.1	2	325607	432884	107277	T1PKS+terpene
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166520.1	3	705327	771867	66540	NRPS
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166520.1	4	1061259	1092875	31616	terpene
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166520.1	5	1111907	1180384	68477	T1PKS
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166520.1	6	1180647	1298490	117843	T1PKS+NRPS-like
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166520.1	7	1307821	1375702	67881	NRPS
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166520.1	8	1401196	1469591	68395	T1PKS
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166539.1	1	252325	315379	63054	NRPS-like
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166539.1	2	725205	756201	30996	terpene
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166539.1	3	1056487	1133977	77490	T1PKS+NRPS-like
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166539.1	4	1135449	1168020	32571	terpene
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166539.1	5	1342876	1387020	44144	NI-siderophore
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166539.1	6	1523435	1590187	66752	NRPS
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166539.1	7	1905674	1921503	15829	RiPP-like
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166539.1	8	2288422	2354149	65727	T1PKS
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166539.1	9	2403906	2472399	68493	T1PKS
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166521.1	1	239026	315519	76493	NRPS
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166521.1	2	400354	444454	44100	NI-siderophore
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166526.1	1	0	115102	115102	NRPS+T1PKS
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166526.1	2	281540	313711	32171	terpene
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166526.1	3	609506	642036	32530	terpene
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166526.1	4	929481	998289	68808	T1PKS
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166526.1	5	1009384	1084259	74875	NRPS-like+T1PKS
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166526.1	6	1308033	1399260	91227	NRPS-like+T1PKS
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166526.1	7	1420298	1500345	80047	T1PKS
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166526.1	8	1522679	1622365	99686	terpene+NRPS+T1PKS
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166526.1	9	1733978	1799360	65382	T1PKS
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166526.1	10	2289525	2357017	67492	T1PKS
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166522.1	1	70050	131277	61227	T3PKS
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166522.1	2	273769	348001	74232	NRPS
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166522.1	3	509659	541088	31429	terpene-precursor
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166522.1	4	648265	683630	35365	terpene
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166524.1	1	484100	562251	78151	NRPS
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166524.1	2	867492	938676	71184	NRPS+T1PKS
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166524.1	3	1112529	1194522	81993	terpene-precursor+NRPS-like
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166524.1	4	1266841	1298845	32004	terpene
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166524.1	5	1444202	1475438	31236	terpene-precursor
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166524.1	6	2570115	2601881	31766	terpene
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166533.1	1	74962	146702	71740	NRPS+T1PKS
+GCF_000002855.4	Aspergillus niger	Fungi	NT_166533.1	2	562901	595784	32883	terpene
+GCF_000146045.2	Saccharomyces cerevisiae	Fungi	NC_001134.8	1	643706	683351	39645	betalactone
+GCF_000146045.2	Saccharomyces cerevisiae	Fungi	NC_001140.6	1	224097	256293	32196	terpene
+GCF_000146045.2	Saccharomyces cerevisiae	Fungi	NC_001140.6	2	469844	501179	31335	terpene
+GCF_000146045.2	Saccharomyces cerevisiae	Fungi	NC_001142.9	1	90013	121072	31059	terpene-precursor
+GCF_000146045.2	Saccharomyces cerevisiae	Fungi	NC_001148.4	1	407884	438892	31008	terpene-precursor
+GCF_000203835.1	Streptomyces coelicolor	Bacteria	NC_003888.3	1	86693	139654	52961	hglE-KS+T1PKS
+GCF_000203835.1	Streptomyces coelicolor	Bacteria	NC_003888.3	2	163800	192038	28238	terpene
+GCF_000203835.1	Streptomyces coelicolor	Bacteria	NC_003888.3	3	246525	271084	24559	lanthipeptide-class-i
+GCF_000203835.1	Streptomyces coelicolor	Bacteria	NC_003888.3	4	493988	552325	58337	NRP-metallophore+NRPS
+GCF_000203835.1	Streptomyces coelicolor	Bacteria	NC_003888.3	5	597850	621488	23638	terpene-precursor
+GCF_000203835.1	Streptomyces coelicolor	Bacteria	NC_003888.3	6	791583	801799	10216	RiPP-like
+GCF_000203835.1	Streptomyces coelicolor	Bacteria	NC_003888.3	7	1257624	1298749	41125	T3PKS
+GCF_000203835.1	Streptomyces coelicolor	Bacteria	NC_003888.3	8	1995499	2005898	10399	ectoine
+GCF_000203835.1	Streptomyces coelicolor	Bacteria	NC_003888.3	9	2939305	2949875	10570	melanin
+GCF_000203835.1	Streptomyces coelicolor	Bacteria	NC_003888.3	10	3024894	3054682	29788	NI-siderophore
+GCF_000203835.1	Streptomyces coelicolor	Bacteria	NC_003888.3	11	3523334	3603988	80654	NRPS
+GCF_000203835.1	Streptomyces coelicolor	Bacteria	NC_003888.3	12	5494800	5567424	72624	T2PKS
+GCF_000203835.1	Streptomyces coelicolor	Bacteria	NC_003888.3	13	5671015	5692101	21086	terpene
+GCF_000203835.1	Streptomyces coelicolor	Bacteria	NC_003888.3	14	5701115	5722276	21161	terpene-precursor
+GCF_000203835.1	Streptomyces coelicolor	Bacteria	NC_003888.3	15	5751944	5824487	72543	T2PKS
+GCF_000203835.1	Streptomyces coelicolor	Bacteria	NC_003888.3	16	6326586	6356533	29947	NI-siderophore
+GCF_000203835.1	Streptomyces coelicolor	Bacteria	NC_003888.3	17	6423649	6476442	52793	prodigiosin+NRPS-like+T1PKS
+GCF_000203835.1	Streptomyces coelicolor	Bacteria	NC_003888.3	18	6632342	6643659	11317	RiPP-like
+GCF_000203835.1	Streptomyces coelicolor	Bacteria	NC_003888.3	19	6656218	6678399	22181	terpene
+GCF_000203835.1	Streptomyces coelicolor	Bacteria	NC_003888.3	20	6833314	6864522	31208	NI-siderophore
+GCF_000203835.1	Streptomyces coelicolor	Bacteria	NC_003888.3	21	6880897	6956537	75640	T1PKS+butyrolactone+hydrogen-cyanide
+GCF_000203835.1	Streptomyces coelicolor	Bacteria	NC_003888.3	22	7088263	7142447	54184	thioamide-NRP+NRPS
+GCF_000203835.1	Streptomyces coelicolor	Bacteria	NC_003888.3	23	7409741	7432456	22715	lanthipeptide-class-iii
+GCF_000203835.1	Streptomyces coelicolor	Bacteria	NC_003888.3	24	7506016	7532758	26742	terpene
+GCF_000203835.1	Streptomyces coelicolor	Bacteria	NC_003888.3	25	7570411	7618555	48144	PKS-like+T1PKS
+GCF_000203835.1	Streptomyces coelicolor	Bacteria	NC_003888.3	26	7682906	7709360	26454	lanthipeptide-class-i
+GCF_000203835.1	Streptomyces coelicolor	Bacteria	NC_003888.3	27	7973469	8047475	74006	other+T3PKS
+GCF_000203835.1	Streptomyces coelicolor	Bacteria	NC_003888.3	28	8269636	8290764	21128	indole
+GCF_000203835.1	Streptomyces coelicolor	Bacteria	NC_003888.3	29	8475101	8549581	74480	T3PKS+NRP-metallophore+NRPS+terpene
+GCF_000203835.1	Streptomyces coelicolor	Bacteria	NC_003903.1	1	201195	222794	21599	terpene
+GCF_000203835.1	Streptomyces coelicolor	Bacteria	NC_003903.1	2	226409	255381	28972	furan+butyrolactone

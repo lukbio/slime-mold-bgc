@@ -1,0 +1,6 @@
+data/
+results/antismash/
+logs/
+.snakemake/
+__pycache__/
+logs_run.txt

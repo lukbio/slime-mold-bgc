@@ -1,0 +1,2 @@
+genomes: config/genomes.tsv
+antismash_db: ""  # empty = antiSMASH default location

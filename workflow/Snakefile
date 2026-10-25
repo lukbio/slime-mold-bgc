@@ -1,0 +1,82 @@
+"""Genome mining of social amoebae (dictyostelid slime molds) for biosynthetic
+gene clusters, compared with other amoebae, fungi and a Streptomyces.
+
+    snakemake --cores 16 --config antismash_db=/path/to/databases
+"""
+
+import csv
+
+configfile: "config/config.yaml"
+
+with open(config["genomes"]) as fh:
+    GENOMES = {row["accession"]: row for row in csv.DictReader(fh, delimiter="\t")}
+
+
+rule all:
+    input:
+        "results/bgc_counts.tsv",
+        "results/bgc_regions.tsv",
+        "results/bgc_heatmap.png",
+
+
+rule download:
+    output:
+        "data/genomes/{acc}.gbff",
+    log:
+        "logs/download/{acc}.log",
+    shell:
+        """
+        tmp=$(mktemp -d)
+        datasets download genome accession {wildcards.acc} --include gbff \
+            --filename $tmp/g.zip > {log} 2>&1
+        python -c "import sys, zipfile; z = zipfile.ZipFile(sys.argv[1]);             sys.stdout.buffer.write(z.read(next(n for n in z.namelist() if n.endswith('genomic.gbff'))))"             $tmp/g.zip > {output}
+        rm -rf $tmp
+        test -s {output}
+        """
+
+
+rule clean:
+    input:
+        "data/genomes/{acc}.gbff",
+    output:
+        "data/clean/{acc}.gbff",
+    log:
+        "logs/clean/{acc}.log",
+    script:
+        "scripts/clean_gbff.py"
+
+
+rule antismash:
+    input:
+        "data/clean/{acc}.gbff",
+    output:
+        "results/antismash/{acc}/{acc}.json",
+    params:
+        taxon=lambda w: GENOMES[w.acc]["taxon"],
+        db=f"--databases {config['antismash_db']}" if config.get("antismash_db") else "",
+        outdir="results/antismash/{acc}",
+    threads: 4
+    log:
+        "logs/antismash/{acc}.log",
+    shell:
+        """
+        antismash --taxon {params.taxon} {params.db} -c {threads} \
+            --genefinding-tool none --minimal --enable-html \
+            --output-dir {params.outdir} --output-basename {wildcards.acc} \
+            {input} > {log} 2>&1
+        """
+
+
+rule summarize:
+    input:
+        expand("results/antismash/{acc}/{acc}.json", acc=GENOMES),
+    output:
+        counts="results/bgc_counts.tsv",
+        regions="results/bgc_regions.tsv",
+        heatmap="results/bgc_heatmap.png",
+    params:
+        genomes=config["genomes"],
+    log:
+        "logs/summarize.log",
+    script:
+        "scripts/summarize.py"
